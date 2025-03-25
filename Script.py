@@ -87,12 +87,12 @@ Bʏ @JISSHU_BOTS</b>"""
 » ʀᴀᴍ - <code>{}%</code>
 » ᴄᴘᴜ - <code>{}%</code></b>"""
 
-    NEW_USER_TXT = """<b>#New_User {}
+    NEW_USER_TXT = """<b>#New_User_2 {}
 
 ≈ ɪᴅ:- <code>{}</code>
 ≈ ɴᴀᴍᴇ:- {}</b>"""
 
-    NEW_GROUP_TXT = """#New_Group {}
+    NEW_GROUP_TXT = """#New_Group_2 {}
 
 Group name - {}
 Id - <code>{}</code>
